@@ -1,1 +1,4 @@
-# Interactive-Voice-Response
+# **Interactive-Voice-Response**
+Nowadays in a very busy life, everyone is in a hurry, no one wants to waste a minute for anything. Computers made human beings' lives easy via many functions. I, Sumayyah Ahmed, created an Interactive Voice Response for my college of DuPage as an assignment. So, Interactive Voice Response (IVR) technology uses programmed menus to interact with callers and route them to the right addressee. When a customer calls a business, they may hear an automated greeting and then be presented with a menu of options. The caller can then respond to the menu by pressing a key on their phone to select an option or speaking to built-in speech recognition software. The IVR system then performs actions based on the caller's responses, such as granting information or guiding them to a call center agent.
+
+
